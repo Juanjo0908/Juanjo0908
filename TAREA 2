@@ -1,0 +1,2 @@
+vTupla = ('Juan',)
+print ( "Mi nombre es:",vTupla[0])
